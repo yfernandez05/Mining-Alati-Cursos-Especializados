@@ -1,0 +1,62 @@
+@font-face {
+    font-family: 'Gotham-Ultra-Italic';
+    src: local('Gotham Ultra Italic'),
+    local('Gotham-Ultra-Italic'),
+    url('#{$font-path}/Gotham-UltraIta.otf') format('opentype')
+}
+
+@font-face {
+    font-family: 'Gotham-Ultra';
+    src: local('Gotham Ultra'),
+    local('Gotham-Ultra'),
+    url('#{$font-path}/Gotham Ultra.otf') format('opentype')
+}
+
+@font-face {
+    font-family: 'Gotham-Bold';
+    src: local('Gotham Bold'),
+    local('Gotham-Bold'),
+    url('#{$font-path}/Gotham-Bold.otf') format('opentype')
+}
+
+@font-face {
+    font-family: 'Gotham-Bold-Italic';
+    src: local('Gotham Bold Italic'),
+    local('Gotham-Bold-Italic'),
+    url('#{$font-path}/Gotham-BoldIta.otf') format('opentype')
+}
+
+@font-face {
+    font-family: 'Gotham-Light';
+    src: local('Gotham Light'),
+    local('Gotham-Light'),
+    url('#{$font-path}/Gotham-Light.otf') format('opentype')
+}
+
+@font-face {
+    font-family: 'Gotham-Black';
+    src: local('Gotham Black'),
+    local('Gotham-Black'),
+    url('#{$font-path}/Gotham-Black.ttf') format('opentype')
+}
+
+@font-face {
+    font-family: 'Arial';
+    src: local('Arial'),
+    local('Arial'),
+    url('#{$font-path}/Arial.ttf') format('opentype')
+}
+
+@font-face {
+    font-family: 'Volte-Bold';
+    src: local('Volte Bold'),
+    local('Volte-Bold'),
+    url('#{$font-path}/Volte Bold.otf') format('opentype')
+}
+
+@font-face {
+    font-family: 'Volte-Semibold';
+    src: local('Volte Semibold'),
+    local('Volte-Semibold'),
+    url('#{$font-path}/Volte Semibold.otf') format('opentype')
+}

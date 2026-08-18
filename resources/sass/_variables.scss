@@ -1,0 +1,41 @@
+//font
+$font-path: '../fonts';
+
+// Body
+$body-bg: #f8fafc;
+
+// Typography
+$font-family-primary: 'Gotham-Bold', sans-serif;
+$font-family-sans-serif: 'Gotham-Light', sans-serif;
+$font-size-base: 0.75rem;
+$line-height-base: 1.3;
+
+
+// Colors
+$blue: #0062ae;
+$celeste: #ecf5f8;
+$indigo: #6574cd;
+$purple: #9561e2;
+$pink: #f66d9b;
+$red: #e3342f;
+$orange: #f18700;
+$yellow: #ffed4a;
+$green: #38c172;
+$teal: #4dc0b5;
+$cyan: #001e91;
+$white:#fff;
+$gray: #f2f2f2;
+
+$primary:       #0062ae !default;
+$secondary:     #101010 !default;
+$success:       #74D707 !default;
+$info:          #01a89e !default;
+$warning:       $yellow !default;
+$danger:        $red !default;
+// $light:         $gray-100 !default;
+//$dark:          $gray-800 !default;
+$primary-dark: #003d46;
+//$secondary-light: #74D707 !default;
+//Card
+$card-border-color: transparent;
+$card-cap-bg: inherit;

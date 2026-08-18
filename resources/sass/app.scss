@@ -1,0 +1,27 @@
+// Variables
+@import 'variables';
+
+// Fonts
+//@import url('https://fonts.googleapis.com/css?family=Nunito');
+@import 'fonts';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+//fortawesome
+$fa-font-path: $font-path;
+
+@import '~@fortawesome/fontawesome-free/scss/fontawesome';
+@import '~@fortawesome/fontawesome-free/scss/brands';
+@import '~@fortawesome/fontawesome-free/scss/solid';
+@import '~@fortawesome/fontawesome-free/scss/regular';
+
+
+// style
+@import 'style';
+@import 'social'; 
+
+//animations
+//@import '~animate.css/animate.min.css';
+
+@import '~aos/dist/aos.css';
